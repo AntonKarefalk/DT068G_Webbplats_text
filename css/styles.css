@@ -126,3 +126,35 @@ cite {
     font-style: normal;
     font-weight: 600;
 }
+
+@media (max-width:600px) {
+    header {
+        padding: 3rem 1rem;
+    }
+
+    header h1 {
+        font-size: 1rem;
+    }
+
+    main {
+        width: 95%;
+        margin: 1rem auto;
+    }
+
+    section {
+        padding: 1.25rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .ingress {
+        font-size: 1rem;
+    }
+
+    .marie-image {
+        width: 130px;
+        height: 130px;
+    }
+}
