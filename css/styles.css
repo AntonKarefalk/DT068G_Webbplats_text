@@ -108,3 +108,21 @@ footer {
 footer p {
     margin: 0;
 }
+
+blockquote {
+    background-color: #aef1f6;
+    border-left: 5px solid #28658a;
+    margin: 2rem 0;
+    padding: 1.5rem;
+    font-size: 1.125rem;
+    font-style: italic;
+    color: #183b56;
+}
+
+cite {
+    display: block;
+    font-size: 1rem;
+    margin-top: 0.75rem;
+    font-style: normal;
+    font-weight: 600;
+}
